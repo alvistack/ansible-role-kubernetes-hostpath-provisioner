@@ -15,7 +15,7 @@
 # limitations under the License.
 
 # hostpath-provisioner version.
-hostpath_provisioner_version: "v0.0.9"
+hostpath_provisioner_version: "v0.0.10"
 
 # ImageRepository sets the container registry to pull images from.
 hostpath_provisioner_image_repository: "docker.io/rancher"
