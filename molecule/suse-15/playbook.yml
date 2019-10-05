@@ -110,7 +110,7 @@
   roles:
     - role: kubernetes-hostpath-provisioner
 
-  post_task:
+  post_tasks:
     - name: setup hostpath as default storageclass
       vars:
         ansible_python_interpreter: "/usr/bin/python3"
