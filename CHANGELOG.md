@@ -1,6 +1,6 @@
 # Ansible Role for Hostpath Volume Provisioner on Kubernetes
 
-## 4.3.0 - TBC
+## 4.2.7 - 2020-04-04
 
 ### Major Changes
 
