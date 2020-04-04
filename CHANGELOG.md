@@ -4,6 +4,7 @@
 
 ### Major Changes
 
+  - [DEPRECATED] No longer recommended for Kubernetes 1.16+, use csi-hostpath instead
   - Upgrade minimal Molecule support to 3.0.2
   - Migrate role name to lowercase or underline
   - Migrate group name to lowercase or underline
